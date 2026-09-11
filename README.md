@@ -28,11 +28,11 @@ Let's see if I can make the defection worth it.
 
 ## Current status
 
-🛸 Origin:        Planet iOS
-💥 Crash site:    Planet Android
-📱 Device:        Galaxy Fold
+🛸 Origin: Planet iOS
+💥 Crash site: Planet Android
+📱 Device: Galaxy Fold
 🧠 Previous life: iOS Developer
-🤖 New class:     Android + AI Developer
+🤖 New class: Android + AI Developer
 
-Switch regret:    ██████░░░░ 60%
-Android curiosity:██████████ 100%
+Switch regret: ██████░░░░ 60%
+Android curiosity: ██████████ 100%
