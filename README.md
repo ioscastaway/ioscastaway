@@ -26,8 +26,6 @@ Consider this my field journal from Planet Android.
 
 Let's see if I can make the defection worth it.
 
-<br>
-
 ## Current status
 
 🛸 Origin: Planet iOS<br>
