@@ -26,6 +26,8 @@ Consider this my field journal from Planet Android.
 
 Let's see if I can make the defection worth it.
 
+<br>
+
 ## Current status
 
 🛸 Origin: Planet iOS<br>
@@ -33,6 +35,5 @@ Let's see if I can make the defection worth it.
 📱 Device: Galaxy Fold<br>
 🧠 Previous life: iOS Developer<br>
 🤖 New class: Android + AI Developer<br> <br>
-<br>
 Switch regret: ██████░░░░ 60%<br>
 Android curiosity: ██████████ 100%
