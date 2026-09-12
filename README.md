@@ -49,6 +49,11 @@ the running list lives here.
 ### Things Apple Would Never Let Me Do
 - [cross-app-agent](https://github.com/ioscastaway/cross-app-agent) — same repository, other angle:
   overlays, a system-bound accessibility service, and a background service the OS keeps alive.
+- [edge-rewire](https://github.com/ioscastaway/edge-rewire) — Safari's edge gestures for Samsung
+  Internet: left edge back, right edge forward, and the first page of a tab is a wall instead of an
+  exit. Two invisible strips carve the browser out of the system back gesture and press the
+  browser's own toolbar buttons; every other app keeps stock navigation.
+  **Reason #07:** the system's own gestures are negotiable, one app at a time.
 
 ### Guest Pass to the Walled Garden
 - [airpods-on-android](https://github.com/ioscastaway/airpods-on-android) — battery widget, connect
@@ -63,6 +68,7 @@ the running list lives here.
 |---|---|---|
 | 05 | An AI agent gets much more interesting when it can see beyond its own app. | cross-app-agent |
 | 06 | My AirPods talk to my phone over Apple's own protocol, and the phone let me be the one to answer. | airpods-on-android |
+| 07 | The system's own gestures are negotiable, one app at a time. | edge-rewire |
 
 _#01–#04 are reserved for the foldable, system-surface, cross-app and background-work experiments
 that have not been written up yet._
