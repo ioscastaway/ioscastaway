@@ -51,13 +51,18 @@ the running list lives here.
   overlays, a system-bound accessibility service, and a background service the OS keeps alive.
 
 ### Guest Pass to the Walled Garden
-- _next:_ AirPods on Android — how much of the AirPods experience survives when one end of the link
-  is a phone Apple did not build.
+- [airpods-on-android](https://github.com/ioscastaway/airpods-on-android) — battery widget, connect
+  card and pause-when-a-pod-comes-out, over the same accessory channel the iPhone uses. The beacon
+  every Android AirPods app relies on turned out to be silent on AirPods 4; the fix was to open
+  Apple's own L2CAP channel from a phone Apple did not build.
+  **Reason #06:** my AirPods talk to my phone over Apple's own protocol, and the phone let me be the
+  one to answer.
 
 ### Reasons so far
 | # | Reason | Earned by |
 |---|---|---|
 | 05 | An AI agent gets much more interesting when it can see beyond its own app. | cross-app-agent |
+| 06 | My AirPods talk to my phone over Apple's own protocol, and the phone let me be the one to answer. | airpods-on-android |
 
 _#01–#04 are reserved for the foldable, system-surface, cross-app and background-work experiments
 that have not been written up yet._
