@@ -62,6 +62,11 @@ the running list lives here.
   your own words, or nothing but the way you keep swiping. Every new rule is replayed against
   everything the old rule ever saw before it is allowed in.
   **Reason #08:** the phone's notifications are a data source, not just a distraction.
+- [self-pr](https://github.com/ioscastaway/self-pr) — stage 3. The app carries its own source,
+  catches its own crashes, diagnoses them with Claude at its next launch, and opens a pull request
+  on its own repository with the fix and a test. CI argues; a human merges. The first PR it filed
+  about itself passed CI on the day it was born.
+  **Reason #09:** on this planet, an app is allowed to rewrite itself.
 
 ### Guest Pass to the Walled Garden
 - [airpods-on-android](https://github.com/ioscastaway/airpods-on-android) — battery widget, connect
@@ -78,6 +83,7 @@ the running list lives here.
 | 06 | My AirPods talk to my phone over Apple's own protocol, and the phone let me be the one to answer. | airpods-on-android |
 | 07 | The system's own gestures are negotiable, one app at a time. | edge-rewire |
 | 08 | The phone's notifications are a data source, not just a distraction. | notification-brain |
+| 09 | On this planet, an app is allowed to rewrite itself. | self-pr |
 
 _#01–#04 are reserved for the foldable, system-surface, cross-app and background-work experiments
 that have not been written up yet._
